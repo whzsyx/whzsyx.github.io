@@ -4,17 +4,50 @@
   
     
     <entry>
-      <title>第一篇</title>
-      <link href="/2022/05/14/di-yi-pian/"/>
-      <url>/2022/05/14/di-yi-pian/</url>
+      <title>Second</title>
+      <link href="/2022/05/15/second/"/>
+      <url>/2022/05/15/second/</url>
       
-        <content type="html"><![CDATA[<p>#######夏天的风,吹皱了城市的喧嚣风吹走云朵,落叶飘向远方。<br><img src="/images/picture1.png" alt="Picture" title="图片 "></p>]]></content>
+        <content type="html"><![CDATA[<p>javascript是一门充满活力、简单易用的语言，又是一门具有许多复杂微妙技术的语言。即使是经验丰富的javascript开发者，如果没有认真学习的话，也无法真正理解它们，这就是javascript的矛盾之处。由于javascript不必理解就可以使用，因此通常来说很难真正理解语言本身，这就是我们面临的挑战。不满足于只是让代码正常工作，而是想要弄清楚为什么，勇于挑战这条崎岖颠簸的少有人走的路，拥抱整个javascript</p><!--more---><p>后面的内容在首页不显示，在博客首页只显示到<span id="more"></span>这里</p>]]></content>
       
+      
+      <categories>
+          
+          <category> web前端 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> first </tag>
+            <tag> 博客 </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇</title>
+      <link href="/2022/05/14/di-yi-pian/"/>
+      <url>/2022/05/14/di-yi-pian/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>微信公众号：未知</p></blockquote><p>建议使用 <strong>Chrome</strong> 浏览器，体验最佳效果。</p><h5 id="夏天的风-吹皱了城市的喧嚣风吹走云朵-落叶飘向远方。"><a href="#夏天的风-吹皱了城市的喧嚣风吹走云朵-落叶飘向远方。" class="headerlink" title="夏天的风,吹皱了城市的喧嚣风吹走云朵,落叶飘向远方。"></a>夏天的风,吹皱了城市的喧嚣风吹走云朵,落叶飘向远方。</h5><p><img src="/images/picture1.png" alt="Picture" title="图片 "></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Private </tag>
             
         </tags>
       

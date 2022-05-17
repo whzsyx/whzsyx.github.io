@@ -6,7 +6,7 @@
   <link href="https://whzsyx.github.io/atom.xml" rel="self"/>
   
   <link href="https://whzsyx.github.io/"/>
-  <updated>2022-05-17T01:44:57.961Z</updated>
+  <updated>2022-05-17T02:11:04.091Z</updated>
   <id>https://whzsyx.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java</title>
+    <link href="https://whzsyx.github.io/2022/05/17/java/"/>
+    <id>https://whzsyx.github.io/2022/05/17/java/</id>
+    <published>2022-05-17T02:11:04.000Z</published>
+    <updated>2022-05-17T02:11:04.091Z</updated>
+    
+    <content type="html"><![CDATA[<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;https://unpkg.com/kity@2.0.4/dist/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;ht</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Python</title>

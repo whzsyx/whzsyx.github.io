@@ -101,8 +101,11 @@ blockquote {
 }
 
 pre {
-    padding: 2rem 1rem 1rem 3rem !important;
+    padding: 1.5rem 1.5rem 1.5rem 3.3rem !important;
     border-radius: 0.35rem;
+    margin: 1rem 0 !important;
+    background: #272822;
+    overflow: auto;
     tab-size: 4;
 }
 
@@ -2052,4 +2055,17 @@ p.search-result-summary{
     height: 50px;
     padding: 0;
     margin: 0;
+}
+/*设置头像旋转*/
+.frind-ship .title img {
+    object-fit: contain;
+    transition: all 1s;
+}
+
+.friend-div:hover .title img {
+    transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
 }

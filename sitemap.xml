@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://whzsyx.github.io/2022/05/14/di-yi-pian/</loc>
+    
+    <lastmod>2022-05-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://whzsyx.github.io/2023/09/21/test/</loc>
+    
+    <lastmod>2022-05-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://whzsyx.github.io/bangumis/index.html</loc>
     
     <lastmod>2022-05-18</lastmod>
@@ -12,15 +30,6 @@
   
   <url>
     <loc>https://whzsyx.github.io/2022/05/15/second/</loc>
-    
-    <lastmod>2022-05-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://whzsyx.github.io/2022/05/14/di-yi-pian/</loc>
     
     <lastmod>2022-05-18</lastmod>
     
@@ -223,6 +232,20 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://whzsyx.github.io/tags/Typora/</loc>
+    <lastmod>2022-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://whzsyx.github.io/tags/Markdown/</loc>
+    <lastmod>2022-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -255,6 +278,13 @@
   
   <url>
     <loc>https://whzsyx.github.io/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://whzsyx.github.io/categories/Markdown/</loc>
     <lastmod>2022-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

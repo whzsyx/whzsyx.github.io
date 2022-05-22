@@ -1,3 +1,4 @@
+https://whzsyx.github.io/2022/05/15/python/
 https://whzsyx.github.io/2022/05/14/di-yi-pian/
 https://whzsyx.github.io/2023/09/21/test/
 https://whzsyx.github.io/bangumis/index.html
@@ -8,7 +9,6 @@ https://whzsyx.github.io/about/index.html
 https://whzsyx.github.io/2022/05/18/redis-xue-xi/
 https://whzsyx.github.io/2022/05/18/mysql-xue-xi/
 https://whzsyx.github.io/2022/05/18/linux-xue-xi/
-https://whzsyx.github.io/2022/05/15/python/
 https://whzsyx.github.io/navigate/index.html
 https://whzsyx.github.io/tags/index.html
 https://whzsyx.github.io/contact/index.html

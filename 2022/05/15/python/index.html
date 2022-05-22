@@ -749,7 +749,7 @@ n = 100
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    187
+                    401
                 </div>
                 
 
@@ -789,13 +789,13 @@ n = 100
   
 
 <h2 id="python-mian-shi-ti-jing-xuan"><a href="#Python面试题精选" class="headerlink" title="Python面试题精选"></a>Python面试题精选<a href="#python-mian-shi-ti-jing-xuan" class="header-anchor">#</a></h2><p>1 一行代码实现1–100之和( 利用sun()求和)</p>
-<pre class="line-numbers language-none"><code class="language-none">sum(range(1,101))
+<pre class="line-numbers language-Python" data-language="Python"><code class="language-Python">sum(range(1,101))
 <span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
 <pre class="line-numbers language-none"><code class="language-none"># 第二种方法
 n = 100
 (n+1) * n &gt;&gt;1<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
 <p>2 如何在一个函数内部修改全局变量</p>
-<pre class="line-numbers language-none"><code class="language-none">a = 5
+<pre class="line-numbers language-Python" data-language="Python"><code class="language-Python">a = 5
 def fn():
     global a
     a = 4
@@ -812,7 +812,44 @@ print(a)<span aria-hidden="true" class="line-numbers-rows"><span></span><span></
 </li>
 </ul>
 <p>3 请描述执行以下程序将输出什么内容？并试着解释其中的原因？</p>
+<pre class="line-numbers language-Python" data-language="Python"><code class="language-Python">def add(n, l=[]):
+    l.append(n)
+    return l
+print(add(1))
+print(add(2))
+print(add(3))<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<blockquote>
+<p>输出log</p>
+</blockquote>
+<pre class="line-numbers language-none"><code class="language-none">[1]
+[1, 2]
+[1, 2, 3]<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
 
+<p>4 列出5个Python标准库</p>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://docs.python.org/3/library/re.html">re</a>, 正则表达式处理</li>
+<li><a target="_blank" rel="noopener" href="https://docs.python.org/3/library/datetime.html">datetime</a>, 日期时间处理</li>
+<li><a target="_blank" rel="noopener" href="https://docs.python.org/3/library/json.html">json</a>, JSON数据处理</li>
+<li><a target="_blank" rel="noopener" href="https://docs.python.org/3/library/math.html">math</a>, 数学计算</li>
+<li><a target="_blank" rel="noopener" href="https://docs.python.org/3/library/random.html">random</a>, 随机数</li>
+<li><a target="_blank" rel="noopener" href="https://docs.python.org/3/library/os.html">os</a>, 系统调用</li>
+<li><a target="_blank" rel="noopener" href="https://docs.python.org/3/library/socket.html">socket</a>, 套接字编程与网络通讯</li>
+<li><a target="_blank" rel="noopener" href="https://docs.python.org/3/library/threading.html">threading</a>, 多线程处理</li>
+<li><a target="_blank" rel="noopener" href="https://docs.python.org/3/library/multiprocessing.html">multiprocessing</a>, 多进程处理</li>
+<li><a target="_blank" rel="noopener" href="https://docs.python.org/3/library/queue.html">queue</a>, 同步任务队列</li>
+</ul>
+<p>5 字典如何删除键<br>方式一: 使用 del 语句进行删除， del 关键字还可用于删除 变量 、 属性 ：</p>
+<pre class="line-numbers language-none"><code class="language-none">&gt;&gt;&gt;ages = {'tom' : 18, 'jim' : 20, 'lily' : 19}
+&gt;&gt;&gt;del ages['jim']
+&gt;&gt;&gt;ages
+{'tom' : 18, 'lily' : 19} <span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
+<p>方法二 ，调用 pop 方法进行删除，这样可以拿到被删除键对应的值：</p>
+<pre class="line-numbers language-none"><code class="language-none">&gt;&gt;&gt;ages = {'tom' : 18, 'jim' : 20, 'lily' : 19}
+&gt;&gt;&gt;jims_age = ages.pop('jim')
+&gt;&gt;&gt;jims_age
+20
+&gt;&gt;&gt;ages
+{'tom' : 18, 'lily' : 19}<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
     <style>.markmap-container{display:flex;justify-content:center;margin:0 auto;width:90%;height:500px}.markmap-container svg{width:100%;height:100%}@media(max-width:768px){.markmap-container{height:400px}}</style>
     <script src="https://cdn.jsdelivr.net/npm/d3@6"></script>
     <script src="https://cdn.jsdelivr.net/npm/markmap-view@0.2.7"></script>
@@ -1662,7 +1699,7 @@ print(a)<span aria-hidden="true" class="line-numbers-rows"><span></span><span></
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">832</span>
+                        class="white-color">1k</span>
             
             
             

@@ -24,12 +24,12 @@ https://whzsyx.github.io/tags/Linux-%E5%AD%A6%E4%B9%A0/
 https://whzsyx.github.io/tags/Python-%E5%AD%A6%E4%B9%A0/
 https://whzsyx.github.io/tags/%E5%8D%9A%E5%AE%A2/
 https://whzsyx.github.io/tags/hexo/
-https://whzsyx.github.io/tags/Private/
 https://whzsyx.github.io/tags/Typora/
 https://whzsyx.github.io/tags/Markdown/
+https://whzsyx.github.io/tags/Private/
 https://whzsyx.github.io/categories/Java-%E5%AD%A6%E4%B9%A0/
 https://whzsyx.github.io/categories/Linux-%E5%AD%A6%E4%B9%A0/
 https://whzsyx.github.io/categories/Python-%E5%AD%A6%E4%B9%A0/
 https://whzsyx.github.io/categories/web%E5%89%8D%E7%AB%AF/
-https://whzsyx.github.io/categories/%E7%AC%94%E8%AE%B0/
 https://whzsyx.github.io/categories/Markdown/
+https://whzsyx.github.io/categories/%E7%AC%94%E8%AE%B0/

@@ -226,13 +226,6 @@
   </url>
   
   <url>
-    <loc>https://whzsyx.github.io/tags/Private/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://whzsyx.github.io/tags/Typora/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -241,6 +234,13 @@
   
   <url>
     <loc>https://whzsyx.github.io/tags/Markdown/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://whzsyx.github.io/tags/Private/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -277,14 +277,14 @@
   </url>
   
   <url>
-    <loc>https://whzsyx.github.io/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://whzsyx.github.io/categories/Markdown/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://whzsyx.github.io/categories/Markdown/</loc>
+    <loc>https://whzsyx.github.io/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

@@ -40,11 +40,28 @@
   </entry>
   
   <entry>
+    <title>软件测试</title>
+    <link href="https://whzsyx.github.io/2023/02/26/ruan-jian-ce-shi/"/>
+    <id>https://whzsyx.github.io/2023/02/26/ruan-jian-ce-shi/</id>
+    <published>2023-02-26T08:22:48.000Z</published>
+    <updated>2023-02-26T08:52:58.513Z</updated>
+    
+    <content type="html"><![CDATA[<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+    
+    
+    <summary type="html">&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;https://unpkg.com/kity@2.0.4/dist/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;true&quot; type=&quot;text&amp;#x2F;javascript&quot; src=&quot;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&quot;&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Redis学习</title>
     <link href="https://whzsyx.github.io/2022/05/18/redis-xue-xi/"/>
     <id>https://whzsyx.github.io/2022/05/18/redis-xue-xi/</id>
     <published>2022-05-18T04:06:40.000Z</published>
-    <updated>2022-05-18T04:06:40.924Z</updated>
+    <updated>2023-02-26T08:53:27.767Z</updated>
     
     <content type="html"><![CDATA[<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
     
@@ -61,7 +78,7 @@
     <link href="https://whzsyx.github.io/2022/05/18/mysql-xue-xi/"/>
     <id>https://whzsyx.github.io/2022/05/18/mysql-xue-xi/</id>
     <published>2022-05-18T04:06:28.000Z</published>
-    <updated>2022-05-18T04:06:28.351Z</updated>
+    <updated>2023-02-26T08:16:15.465Z</updated>
     
     <content type="html"><![CDATA[<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
     
@@ -78,7 +95,7 @@
     <link href="https://whzsyx.github.io/2022/05/18/linux-xue-xi/"/>
     <id>https://whzsyx.github.io/2022/05/18/linux-xue-xi/</id>
     <published>2022-05-18T04:05:23.000Z</published>
-    <updated>2022-05-18T04:05:23.282Z</updated>
+    <updated>2023-02-26T08:17:43.100Z</updated>
     
     <content type="html"><![CDATA[<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
     
@@ -95,7 +112,7 @@
     <link href="https://whzsyx.github.io/2022/05/18/linux/"/>
     <id>https://whzsyx.github.io/2022/05/18/linux/</id>
     <published>2022-05-18T01:52:35.000Z</published>
-    <updated>2022-05-18T04:26:54.628Z</updated>
+    <updated>2023-02-26T08:52:58.506Z</updated>
     
     <content type="html"><![CDATA[<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
     
@@ -187,15 +204,15 @@
     <link href="https://whzsyx.github.io/2022/05/14/di-yi-pian/"/>
     <id>https://whzsyx.github.io/2022/05/14/di-yi-pian/</id>
     <published>2022-05-14T10:01:26.000Z</published>
-    <updated>2022-05-18T12:58:39.253Z</updated>
+    <updated>2023-02-26T08:20:17.163Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>微信公众号：未知</p></blockquote><p>建议使用 <strong>Chrome</strong> 浏览器，体验最佳效果。<br> 夏天的风,吹皱了城市的喧嚣风吹走云朵,落叶飘向远方。<br><img src="/images/picture1.png" alt="Picture" title="图片 "></p><ol><li>女孩的裙摆撑得起所有温柔和盛夏</li><li>整个夏天想和你环游全世界</li><li>玻璃晴朗，橘子辉煌。</li><li>夏天太浪漫了，我想请它吃顿饭，如果你有空，可以一起来。</li><li>收集了一千一万个夏天的文案，但这个夏天是什么样的只有我们知道。</li><li>仲夏的凉风吹走炙热的焦虑，橙色黄昏相拥薄荷的黎明。</li><li>西瓜的清甜在于第一口，心里的悸动在于第一眼。</li><li>在夏天，我们吃绿豆、桃、樱桃和甜瓜。在各种意义上都漫长且愉快，日子发出声响。</li><li>窗外的风吹动叶子，带来炎热又清新的味道。</li><li>我们没有小桥流水人家，我们有的是冰淇淋和冰镇西瓜。<blockquote><p>人回到原点,只会忘记一切,重复错误,永劫轮回。你何不放开一点,尝试接受新事物,未必不是一件好事</p></blockquote></li></ol><p><img src="/images/9.jpg" alt="殇雪" title="图片 "></p><h5 id="wen-an"><a href="#文案" class="headerlink" title="文案"></a>文案<a href="#wen-an" class="header-anchor">#</a></h5><blockquote><p>所有美好事物源源不断地都在夏天来了<br>比如 傍晚街道凉爽的晚风 清晨和煦的阳光 柠檬汽水拉开扣的悦耳 热出汗后的一口冻成冰喳的雪碧 湛蓝天空上像草莓软卷一样的云朵 以及其实廉价世俗却也吸引着我的摊边小吃 一切事物在夏天这个名词下熠熠生辉 更心动的是 你也和夏天一起来了</p></blockquote><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+    <content type="html"><![CDATA[<blockquote><p>微信公众号：未知</p></blockquote><p>建议使用 <strong>Chrome</strong> 浏览器，体验最佳效果。<br> 夏天的风,吹皱了城市的喧嚣风吹走云朵,落叶飘向远方。<br><img src="/images/68134515_p0.png" alt="Picture" title="图片 "></p><ol><li>女孩的裙摆撑得起所有温柔和盛夏</li><li>整个夏天想和你环游全世界</li><li>玻璃晴朗，橘子辉煌。</li><li>夏天太浪漫了，我想请它吃顿饭，如果你有空，可以一起来。</li><li>收集了一千一万个夏天的文案，但这个夏天是什么样的只有我们知道。</li><li>仲夏的凉风吹走炙热的焦虑，橙色黄昏相拥薄荷的黎明。</li><li>西瓜的清甜在于第一口，心里的悸动在于第一眼。</li><li>在夏天，我们吃绿豆、桃、樱桃和甜瓜。在各种意义上都漫长且愉快，日子发出声响。</li><li>窗外的风吹动叶子，带来炎热又清新的味道。</li><li>我们没有小桥流水人家，我们有的是冰淇淋和冰镇西瓜。<blockquote><p>人回到原点,只会忘记一切,重复错误,永劫轮回。你何不放开一点,尝试接受新事物,未必不是一件好事</p></blockquote></li></ol><p><img src="/images/66095083_p0.png" alt="殇雪" title="图片 "></p><h5 id="wen-an"><a href="#文案" class="headerlink" title="文案"></a>文案<a href="#wen-an" class="header-anchor">#</a></h5><blockquote><p>所有美好事物源源不断地都在夏天来了<br>比如 傍晚街道凉爽的晚风 清晨和煦的阳光 柠檬汽水拉开扣的悦耳 热出汗后的一口冻成冰喳的雪碧 湛蓝天空上像草莓软卷一样的云朵 以及其实廉价世俗却也吸引着我的摊边小吃 一切事物在夏天这个名词下熠熠生辉 更心动的是 你也和夏天一起来了</p></blockquote><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
     
     
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;微信公众号：未知&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;建议使用 &lt;strong&gt;Chrome&lt;/strong&gt; 浏览器，体验最佳效果。&lt;br&gt; 夏天的风,吹皱了城市的喧嚣风吹走云朵,落叶飘向远方。&lt;br&gt;&lt;img src=&quot;/images/picture1.png&quot; alt=&quot;Picture&quot; title=&quot;图片 &quot;&gt;&lt;/p&gt;
+&lt;p&gt;建议使用 &lt;strong&gt;Chrome&lt;/strong&gt; 浏览器，体验最佳效果。&lt;br&gt; 夏天的风,吹皱了城市的喧嚣风吹走云朵,落叶飘向远方。&lt;br&gt;&lt;img src=&quot;/images/68134515_p0.png&quot; alt=&quot;Picture&quot; title=&quot;图片 &quot;&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;女孩的裙摆撑得起所有温柔和盛夏&lt;/li&gt;
 &lt;li&gt;整个夏天想和你环游全世界&lt;/li&gt;
@@ -211,7 +228,7 @@
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&quot;/images/9.jpg&quot; alt=&quot;殇雪&quot; title=&quot;图片 &quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/66095083_p0.png&quot; alt=&quot;殇雪&quot; title=&quot;图片 &quot;&gt;&lt;/p&gt;
 &lt;h5 id=&quot;wen-an&quot;&gt;&lt;a href=&quot;#文案&quot; class=&quot;headerlink&quot; title=&quot;文案&quot;&gt;&lt;/a&gt;文案&lt;a href=&quot;#wen-an&quot; class=&quot;header-anchor&quot;&gt;#&lt;/a&gt;&lt;/h5&gt;&lt;blockquote&gt;
 &lt;p&gt;所有美好事物源源不断地都在夏天来了&lt;br&gt;比如 傍晚街道凉爽的晚风 清晨和煦的阳光 柠檬汽水拉开扣的悦耳 热出汗后的一口冻成冰喳的雪碧 湛蓝天空上像草莓软卷一样的云朵 以及其实廉价世俗却也吸引着我的摊边小吃 一切事物在夏天这个名词下熠熠生辉 更心动的是 你也和夏天一起来了&lt;/p&gt;
 &lt;/blockquote&gt;

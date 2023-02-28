@@ -31,6 +31,31 @@
     
     
     <entry>
+      <title>Python学习</title>
+      <link href="/2023/02/27/python-xue-xi/"/>
+      <url>/2023/02/27/python-xue-xi/</url>
+      
+        <content type="html"><![CDATA[<p>循环语句：<br>在嵌套 if 语句中，可以把 if…elif…else 结构放在另外一个 if…elif…else 结构中。</p><pre class="line-numbers language-none"><code class="language-none">if 表达式1:    语句    if 表达式2:        语句    elif 表达式3:        语句    else:        语句elif 表达式4:    语句else:    语句<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h1 id="han-shu-de-xue-xi"><a href="#函数的学习" class="headerlink" title="函数的学习"></a>函数的学习<a href="#han-shu-de-xue-xi" class="header-anchor">#</a></h1><ol><li>函数是组织好的，可重复使用的，用来实现单一，或相关联功能的代码段。</li><li>函数能提高应用的模块性，和代码的重复利用率。你已经知道Python提供了许多内建函数，比如print()。 但你也可以自己创建函数，这被叫做用户自定义函数。</li></ol><blockquote><p>定义一个函数打印25个-</p></blockquote><pre class="line-numbers language-Python" data-language="Python"><code class="language-Python">def printLine():    print(25 * "-")<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><pre class="line-numbers language-Python" data-language="Python"><code class="language-Python">def printLine():    print(25 * "-")def printline1(ac, bd):    print(ac * bd)print("函数是组织好的，可重复使用的，用来实现单一，或相关联功能的代码段。")printLine()print("函数能提高应用的模块性，和代码的重复利用率。\n你已经知道Python提供了许多内建函数，比如print()。\n但你也可以自己创建函数，这被叫做用户自定义函数")printline1(10, "*")<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h1 id="ding-yi-yi-ge-add-han-shu"><a href="#定义一个add函数" class="headerlink" title="定义一个add函数"></a>定义一个add函数<a href="#ding-yi-yi-ge-add-han-shu" class="header-anchor">#</a></h1><pre class="line-numbers language-Python" data-language="Python"><code class="language-Python">def add(z,j):    z + j    return z + jx = int(input("请输入x:"))y = int(input("请输入y:"))print("x + y = ",add(x, y))<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><blockquote><p>下标:indexes<br>值:  values</p></blockquote><h1 id="shu-ju-lei-xing"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型<a href="#shu-ju-lei-xing" class="header-anchor">#</a></h1><pre class="line-numbers language-Python" data-language="Python"><code class="language-Python">l = ["a", "b", "c", "d", "e", "f"]print("列表里面第二个元素：", l[1])l[3] = "n"l.append("xyz")del l[1]i = 1for li in l:    print("遍历集合中的元素：", i, "个", li)    i += 1# i = i + 1print(25 * "-")# list的操作list = ["a", "b", "c", "d", "e"]list1 = ["f", "g", "h", "d"]# # append是整体添加数据# list.append(list1)# print(list)# print(len(list))# # expend是list1里面的数据挨个添加list.extend(list1)print(len(list))print(list)list2 = ["aa", "bb", "cc", "dd", "ee"]# 清空列表里面的所有数据list2.clear()# 删除列表里面的最后一个元素list2.pop()# 根据内容删除数据list2.remove()# 根据下表删除数据del list2[1]print(list2)# 字典# 语法{"key1":values1, "key2":values2, "key3":values3}, key不可重复, values可重复d1 = {'局长': '张三', '市长': '李六', '县长': "王五"}d1['省长'] = '李四'print(d1)print(d1['局长'])d1['局长'] = '王五'print(d1)# 清除字典的所有数据# d1.clear()d1.pop('局长')for a1 in d1:    print('key=', a1, 'values=', d1[a1])# 字典# 语法{"key1":values1, "key2":values2, "key3":values3}, key不可重复, values可重复d1 = {'局长': '张三', '市长': '李六', '县长': "王五"}d1['省长'] = '李四'print(d1)print(d1['局长'])d1['局长'] = '王五'print(d1)# 清除字典的所有数据# d1.clear()d1.pop('局长')for a1 in d1:    print('key=', a1, 'values=', d1[a1])<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h6 id="ding-yi-yi-ge-lie-biao-bao-han-xue-sheng-de-cheng-ji-yi-chu-xiao-yu-60-fen-de-cheng-ji"><a href="#定义一个列表，包含学生的成绩，移除小于60分的成绩" class="headerlink" title="定义一个列表，包含学生的成绩，移除小于60分的成绩"></a>定义一个列表，包含学生的成绩，移除小于60分的成绩<a href="#ding-yi-yi-ge-lie-biao-bao-han-xue-sheng-de-cheng-ji-yi-chu-xiao-yu-60-fen-de-cheng-ji" class="header-anchor">#</a></h6><pre class="line-numbers language-Python" data-language="Python"><code class="language-Python">l = [34, 67, 65, 58, 95, 69]for j in l:    if j &lt; 60:        l.remove(j)print(l)<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> Python 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>软件测试</title>
       <link href="/2023/02/26/ruan-jian-ce-shi/"/>
       <url>/2023/02/26/ruan-jian-ce-shi/</url>
